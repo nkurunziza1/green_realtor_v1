@@ -5,7 +5,6 @@ import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import { sourceSerif } from "@/app/_utils";
 import { BsArrowLeftCircle, BsArrowRightCircle } from "react-icons/bs";
-import { openSans } from "@/app/_utils";
 
 interface TestimonialsType {
   desc: string;
